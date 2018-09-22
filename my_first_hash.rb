@@ -14,7 +14,7 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
-    hash["oil paintings"]
+    shipping_mainfest["oil paintings"]
 
 end
 
